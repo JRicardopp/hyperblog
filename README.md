@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Atom
 
 [![Build status](https://dev.azure.com/github/Atom/_apis/build/status/Atom%20Production%20Branches?branchName=master)](https://dev.azure.com/github/Atom/_build/latest?definitionId=32&branchName=master)
@@ -83,3 +84,7 @@ repeat these steps to upgrade to future releases.
 [MIT](https://github.com/atom/atom/blob/master/LICENSE.md)
 
 When using the Atom or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+=======
+# hyperblog
+Un blog increible para el curso de Git y Github de Platzi.
+>>>>>>> 76865110c5f1e2859f418de9073d284066309223
